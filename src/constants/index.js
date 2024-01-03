@@ -143,7 +143,7 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
+      company_name: "Shopify", 
       icon: shopify,
       iconBg: "#383E56",
       // date: "Jan 2022 - Jan 2023",
